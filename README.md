@@ -1,10 +1,13 @@
+
+
 ---
 
 # Employee Management System
 
 A backend for managing employees using **Spring Boot**, **Spring Security (Basic Auth)**, **MySQL**, and **Swagger**. This project includes robust exception handling with custom and global exceptions. The utility classes are used for consistent API responses, and user roles are defined via constants for access control.
 
-> **Note**: The frontend is built with **Angular** and located in a [separate repository](https://github.com/Siddhantthorat/EmployeeManagementSystemProject).
+> **Note**: The frontend is built with **Angular** and located in a [separate repository](#).
+
 ---
 
 ## Features
@@ -21,7 +24,7 @@ A backend for managing employees using **Spring Boot**, **Spring Security (Basic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Siddhantthorat/EmployeeManagementSystemProject.git
+   git clone https://github.com/your-username/employee-management-system.git
    ```
 2. **Configure MySQL**: Update `application.properties` with your database credentials.
 3. **Run the application**:
@@ -51,7 +54,7 @@ A backend for managing employees using **Spring Boot**, **Spring Security (Basic
 ## Author
 
 **Your Name**  
-[Frontend Repository](#) | [GitHub](https://github.com/Siddhantthorat/EmployeeManagementSystemProject)
+[Frontend Repository](#) | [GitHub](https://github.com/Siddhantthorat/EmployeeManagementSystemProject.git)
 
 ---
 
