@@ -24,7 +24,7 @@ A backend for managing employees using **Spring Boot**, **Spring Security (Basic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/Siddhantthorat/EmployeeManagementSystemProject.git
    ```
 2. **Configure MySQL**: Update `application.properties` with your database credentials.
 3. **Run the application**:
